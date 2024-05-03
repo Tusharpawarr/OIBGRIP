@@ -1,1 +1,1 @@
-![GitHub Logo](Spotify.png)
+![Sp](Spotify.png)
